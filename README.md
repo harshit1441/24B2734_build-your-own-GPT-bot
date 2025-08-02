@@ -1,7 +1,9 @@
 # 📘 Build Your Own GPT
 
 **Student:** Harshit Agarwal
+
 **Roll No.:** 24B2734
+
 **Project UID:** 143
 
 ---
